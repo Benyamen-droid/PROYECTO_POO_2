@@ -1,0 +1,34 @@
+[
+    {
+        "id_prestamo": "PRE-001",
+        "uid_usuario": "E001",
+        "id_material": "978-0-13-235088-4",
+        "fecha_salida": "2026-06-01",
+        "fecha_devolucion_pactada": "2026-06-08",
+        "devuelto": true
+    },
+    {
+        "id_prestamo": "PRE-002",
+        "uid_usuario": "E001",
+        "id_material": "978-0-13-468599-1",
+        "fecha_salida": "2026-06-01",
+        "fecha_devolucion_pactada": "2026-06-08",
+        "devuelto": false
+    },
+    {
+        "id_prestamo": "PRE-003",
+        "uid_usuario": "P001",
+        "id_material": "978-0-201-63361-0",
+        "fecha_salida": "2026-06-01",
+        "fecha_devolucion_pactada": "2026-07-01",
+        "devuelto": true
+    },
+    {
+        "id_prestamo": "PRE-004",
+        "uid_usuario": "P002",
+        "id_material": "UUID-7F3A-9D21",
+        "fecha_salida": "2026-06-01",
+        "fecha_devolucion_pactada": "2026-07-01",
+        "devuelto": true
+    }
+]

@@ -1,0 +1,12 @@
+@'
+# =============================================================================
+# SMARTLIB v2.0 - REQUIREMENTS
+# =============================================================================
+# Este proyecto utiliza unicamente la libreria estandar de Python.
+# No se requieren paquetes externos adicionales (como pip install).
+#
+# Requisito de Entorno:
+# Python >= 3.11
+'| Out-File -Encoding utf8 requirements.txt
+
+Write-Host "¡Archivo requirements.txt creado con éxito!" -ForegroundColor Green

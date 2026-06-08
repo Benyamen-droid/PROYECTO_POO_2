@@ -1,0 +1,32 @@
+[
+    {
+        "uid": "E001",
+        "nombre": "Carlos Mendoza",
+        "libros_prestados": 1,
+        "tipo": "Estudiante",
+        "codigo_estudiante": "20241045",
+        "carrera": "Ingenieria de Sistemas"
+    },
+    {
+        "uid": "E002",
+        "nombre": "Lucia Flores",
+        "libros_prestados": 0,
+        "tipo": "Estudiante",
+        "codigo_estudiante": "20241102",
+        "carrera": "Ingenieria Civil"
+    },
+    {
+        "uid": "P001",
+        "nombre": "Dr. Arthur Dynamic",
+        "libros_prestados": 0,
+        "tipo": "Profesor",
+        "departamento": "Ciencias de la Computacion"
+    },
+    {
+        "uid": "P002",
+        "nombre": "Mg. Aldo Zanabria",
+        "libros_prestados": 0,
+        "tipo": "Profesor",
+        "departamento": "Informatica y Sistemas"
+    }
+]

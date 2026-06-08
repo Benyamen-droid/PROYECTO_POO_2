@@ -1,0 +1,52 @@
+[
+    {
+        "identificador": "978-0-13-235088-4",
+        "titulo": "The Pragmatic Programmer",
+        "autor": "Hunt & Thomas",
+        "anio": 2019,
+        "estado": "Disponible",
+        "tipo": "LibroFisico",
+        "pasillo": "A3",
+        "estante": "Estante-07"
+    },
+    {
+        "identificador": "978-0-13-468599-1",
+        "titulo": "Clean Code",
+        "autor": "Robert C. Martin",
+        "anio": 2008,
+        "estado": "Prestado",
+        "tipo": "LibroFisico",
+        "pasillo": "B1",
+        "estante": "Estante-02"
+    },
+    {
+        "identificador": "978-0-201-63361-0",
+        "titulo": "Design Patterns",
+        "autor": "Gamma, Helm, Johnson, Vlissides",
+        "anio": 1994,
+        "estado": "Disponible",
+        "tipo": "LibroFisico",
+        "pasillo": "C2",
+        "estante": "Estante-11"
+    },
+    {
+        "identificador": "UUID-7F3A-9D21",
+        "titulo": "Python Object-Oriented Programming",
+        "autor": "Dusty Phillips",
+        "anio": 2018,
+        "estado": "Disponible",
+        "tipo": "LibroDigital",
+        "url": "https://smartlib.unap.edu.pe/digital/python-oop-phillips.pdf",
+        "tamano_mb": 12.4
+    },
+    {
+        "identificador": "UUID-4B1C-2E78",
+        "titulo": "C++ Primer 6th Edition",
+        "autor": "Lippman, Lajoie & Moo",
+        "anio": 2023,
+        "estado": "Disponible",
+        "tipo": "LibroDigital",
+        "url": "https://smartlib.unap.edu.pe/digital/cpp-primer-6ed.pdf",
+        "tamano_mb": 45.7
+    }
+]
